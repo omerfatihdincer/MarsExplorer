@@ -1,0 +1,6 @@
+c:\users\yazilimci-pc\documents\visual studio 2017\Projects\MarsExplorer\MarsExplorer\bin\Debug\MarsExplorer.exe.config
+c:\users\yazilimci-pc\documents\visual studio 2017\Projects\MarsExplorer\MarsExplorer\bin\Debug\MarsExplorer.exe
+c:\users\yazilimci-pc\documents\visual studio 2017\Projects\MarsExplorer\MarsExplorer\bin\Debug\MarsExplorer.pdb
+c:\users\yazilimci-pc\documents\visual studio 2017\Projects\MarsExplorer\MarsExplorer\obj\Debug\MarsExplorer.csprojResolveAssemblyReference.cache
+c:\users\yazilimci-pc\documents\visual studio 2017\Projects\MarsExplorer\MarsExplorer\obj\Debug\MarsExplorer.exe
+c:\users\yazilimci-pc\documents\visual studio 2017\Projects\MarsExplorer\MarsExplorer\obj\Debug\MarsExplorer.pdb

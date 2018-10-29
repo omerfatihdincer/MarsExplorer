@@ -43,7 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Coordinates.cs" />
+    <Compile Include="Classes\IProcessTemplate.cs" />
     <Compile Include="Classes\Limit.cs" />
+    <Compile Include="Classes\Process.cs" />
+    <Compile Include="Classes\ProcessTemplate.cs" />
     <Compile Include="Enums\CalculusEnum.cs" />
     <Compile Include="Enums\CommandEnum.cs" />
     <Compile Include="Enums\DirectionEnum.cs" />
